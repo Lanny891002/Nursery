@@ -1,0 +1,121 @@
+body {
+  background-color: #9aa5ff;   
+  overflow: hidden;    　
+}
+
+img.cloud1 {
+  width: 12%;
+  position: absolute;
+  left: -63%;
+  right: 0;
+  margin: auto;
+  top: 7%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.cloud2 {
+  width: 16%;
+  position: absolute;
+  left: 62%;
+  right: 0;
+  margin: auto;
+  top: 6%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.cloud3 {
+  width: 14%;
+  position: absolute;
+  left: -8%;
+  right: 0;
+  margin: auto;
+  top: 13%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.mountain1 {
+  width: 27%;
+  position: absolute;
+  left: -24%;
+  right: 0;
+  margin: auto;
+  top: 57%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.mountain2 {
+  width: 19%;
+  position: absolute;
+  left: 73%;
+  right: 0;
+  margin: auto;
+  top: 71%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.mountain3 {
+  width: 23%;
+  position: absolute;
+  left: 51%;
+  right: 0;
+  margin: auto;
+  top: 62%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.mountain4 {
+  width: 20%;
+  position: absolute;
+  left: -55%;
+  right: 0;
+  margin: auto;
+  top: 66%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.floor {
+  width: 100%;
+  position: absolute;
+  left: 0%;
+  right: 0;
+  margin: auto;
+  top: 87%;
+  opacity: 100;
+  margin-bottom: -100%;
+}
+
+img.Nursery {
+  width: 54%;
+  position: absolute;
+  left: -25%;
+  right: 0;
+  margin: auto;
+  top: 78%;
+  opacity: 100;
+  margin-bottom: -100%;
+  animation-name: Nurserymove;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes Nurserymove {
+  0% {
+  }
+  25% {
+    
+  }
+  50% {
+    top: 68%;
+  }
+  100% {
+    
+  }
+}
